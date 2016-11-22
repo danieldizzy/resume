@@ -1,2 +1,2 @@
 ## Resume Redesign
-* Credit to [https://github.com/LouisaBarrett/resume] (LouisaBarrett)
+* Credit to [LouisaBarrett's resume page] (https://github.com/LouisaBarrett/resume)
